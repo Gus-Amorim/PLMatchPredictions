@@ -38,7 +38,7 @@ This project explores the effects of different preprocessing techniques on machi
 | Model                  | Regular Dataset | Filtered Dataset | PCA Dataset | LDA Dataset |
 |------------------------|-----------------|------------------|-------------|-------------|
 | **SVM**               | 0.848          | 0.998            | 0.788       | 0.561       |
-| **Random Forest**     | 0.910          | 0.940            | 0.750       | 0.753       |
+| **Random Forest**     | 0.750          | 0.920            | 0.638       | 0.569       |
 | **Decision Tree**     | 0.759          | 0.993            | 0.570       | 0.545       |
 | **ResNet**            | 0.952          | 0.869            | 0.910       | 0.807       |
 | **VGG-like Network**  | 0.811          | -                | 0.829       | 0.545       |
